@@ -1,0 +1,5 @@
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics\bin\Debug\MoralesLarios.Generics.dll
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics\bin\Debug\MoralesLarios.Generics.pdb
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics\obj\Debug\MoralesLarios.Generics.csprojResolveAssemblyReference.cache
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics\obj\Debug\MoralesLarios.Generics.dll
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics\obj\Debug\MoralesLarios.Generics.pdb

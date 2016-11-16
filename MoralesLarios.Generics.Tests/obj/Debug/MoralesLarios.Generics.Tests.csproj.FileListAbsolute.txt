@@ -1,0 +1,9 @@
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics.Tests\bin\Debug\MoralesLarios.Generics.Tests.dll
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics.Tests\bin\Debug\MoralesLarios.Generics.Tests.pdb
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics.Tests\bin\Debug\MoralesLarios.Generics.dll
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics.Tests\bin\Debug\MoralesLarios.Generics.pdb
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics.Tests\obj\Debug\MoralesLarios.Generics.Tests.csprojResolveAssemblyReference.cache
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics.Tests\obj\Debug\MoralesLarios.Generics.Tests.dll
+c:\users\juanfrancisco\documents\visual studio 2015\Projects\MoralesLarios.Generics\MoralesLarios.Generics.Tests\obj\Debug\MoralesLarios.Generics.Tests.pdb
